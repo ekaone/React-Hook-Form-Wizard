@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c7d32d85647ad4266b0456cd99a71e58",
+    "revision": "f0abcec27d174a53606aad8c649241fa",
     "url": "/React-Hook-Form-Wizard/index.html"
   },
   {
-    "revision": "fd5151b9f0debd28431e",
+    "revision": "a691fc9a36f4ff3daee8",
     "url": "/React-Hook-Form-Wizard/static/css/main.56ebbf1a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Hook-Form-Wizard/static/js/2.be63a560.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fd5151b9f0debd28431e",
-    "url": "/React-Hook-Form-Wizard/static/js/main.bf3a8cb9.chunk.js"
+    "revision": "a691fc9a36f4ff3daee8",
+    "url": "/React-Hook-Form-Wizard/static/js/main.ef9c2870.chunk.js"
   },
   {
     "revision": "80e2197f69a988a07770",

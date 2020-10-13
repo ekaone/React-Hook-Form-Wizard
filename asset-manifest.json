@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-Hook-Form-Wizard/static/css/main.56ebbf1a.chunk.css",
-    "main.js": "/React-Hook-Form-Wizard/static/js/main.bf3a8cb9.chunk.js",
-    "main.js.map": "/React-Hook-Form-Wizard/static/js/main.bf3a8cb9.chunk.js.map",
+    "main.js": "/React-Hook-Form-Wizard/static/js/main.ef9c2870.chunk.js",
+    "main.js.map": "/React-Hook-Form-Wizard/static/js/main.ef9c2870.chunk.js.map",
     "runtime-main.js": "/React-Hook-Form-Wizard/static/js/runtime-main.3eb30605.js",
     "runtime-main.js.map": "/React-Hook-Form-Wizard/static/js/runtime-main.3eb30605.js.map",
     "static/js/2.be63a560.chunk.js": "/React-Hook-Form-Wizard/static/js/2.be63a560.chunk.js",
     "static/js/2.be63a560.chunk.js.map": "/React-Hook-Form-Wizard/static/js/2.be63a560.chunk.js.map",
     "index.html": "/React-Hook-Form-Wizard/index.html",
-    "precache-manifest.3871102848f4df2a922fa15c5a1291d7.js": "/React-Hook-Form-Wizard/precache-manifest.3871102848f4df2a922fa15c5a1291d7.js",
+    "precache-manifest.0f3f09121350dc28662a868cc4338656.js": "/React-Hook-Form-Wizard/precache-manifest.0f3f09121350dc28662a868cc4338656.js",
     "service-worker.js": "/React-Hook-Form-Wizard/service-worker.js",
     "static/css/main.56ebbf1a.chunk.css.map": "/React-Hook-Form-Wizard/static/css/main.56ebbf1a.chunk.css.map",
     "static/js/2.be63a560.chunk.js.LICENSE.txt": "/React-Hook-Form-Wizard/static/js/2.be63a560.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3eb30605.js",
     "static/js/2.be63a560.chunk.js",
     "static/css/main.56ebbf1a.chunk.css",
-    "static/js/main.bf3a8cb9.chunk.js"
+    "static/js/main.ef9c2870.chunk.js"
   ]
 }
